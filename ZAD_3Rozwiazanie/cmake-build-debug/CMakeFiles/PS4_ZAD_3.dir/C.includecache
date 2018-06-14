@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/AVLtree.c
+AVLtree.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/AVLtree.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/AVLtree.h
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdbool.h
+-
+string.h
+-
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/main.c
+stdio.h
+-
+AVLtree.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/AVLtree.h
+script.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/script.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/script.c
+script.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/script.h
+
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/script.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+time.h
+-
+AVLtree.h
+X:/Moje dokumenty/Dokumenty Adama/Dokumenty PB/Semestr III - prace/Algorytmy i struktury danych/Ps/Ps4/PS4_ZAD_3/AVLtree.h
+
